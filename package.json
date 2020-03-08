@@ -1,0 +1,30 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannah95baxter/tropicali.git"
+  },
+  "author": "Hannah Baxter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannah95baxter/tropicali/issues"
+  },
+  "homepage": "https://github.com/hannah95baxter/tropicali#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "description": ""
+}
